@@ -19,6 +19,7 @@ const Switch = styled.div`
         top: 0;
     }
 
+
     .switch__input {
         margin: 0;
         padding: 0;
